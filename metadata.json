@@ -1,0 +1,11 @@
+{
+  "title": "Sulawesi Earthquake Dataset (1974–2024)",
+  "region": "Sulawesi, Indonesia",
+  "latitude_range": [-6.184, 2.021],
+  "longitude_range": [118.433, 125.552],
+  "magnitude_min": 2.5,
+  "time_range": ["1974-01-01T00:00:00", "2024-07-01T23:59:59"],
+  "source": "USGS",
+  "license": "MIT",
+  "last_updated": "2025-06-10"
+}
